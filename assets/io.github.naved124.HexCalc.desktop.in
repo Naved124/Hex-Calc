@@ -1,0 +1,12 @@
+[Desktop Entry]
+Type=Application
+Name=Hex Calc
+GenericName=Programmer Calculator
+Comment=Hex, decimal, octal and binary calculator with bitwise operations
+Exec=@HEXCALC_EXEC@
+Icon=hex-calc
+Terminal=false
+Categories=Utility;Calculator;Qt;
+Keywords=hex;hexadecimal;binary;octal;decimal;calculator;programmer;bitwise;
+StartupNotify=true
+StartupWMClass=hex-calc
